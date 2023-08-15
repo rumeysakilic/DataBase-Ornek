@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1qfMfQTHAWAs0Prlj8xe8gVq4jQ3lCnW7qysj7IqoyyWEEl2vqFEa2hiUI2DDonOPPOw4Bq9l9wJboT15L15Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\VS Ornekler\\Ornekler\\VeriTabanıUygulaması\\VeriTabanıUygulaması.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\rumey\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
