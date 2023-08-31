@@ -1,0 +1,17 @@
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\bin\Debug\net6.0-windows\Fonksiyon.exe
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\bin\Debug\net6.0-windows\Fonksiyon.deps.json
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\bin\Debug\net6.0-windows\Fonksiyon.runtimeconfig.json
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\bin\Debug\net6.0-windows\Fonksiyon.dll
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\bin\Debug\net6.0-windows\Fonksiyon.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.Form1.resources
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.csproj.GenerateResource.cache
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.AssemblyInfoInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.AssemblyInfo.cs
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.dll
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\refint\Fonksiyon.dll
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.genruntimeconfig.cache
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\ref\Fonksiyon.dll
+C:\Users\rumey\VS Ornekler\Ornekler\Fonksiyon\obj\Debug\net6.0-windows\Fonksiyon.Properties.Resources.resources

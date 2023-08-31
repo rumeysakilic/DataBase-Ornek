@@ -1,0 +1,16 @@
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\bin\Debug\net6.0-windows\EkranaBas.exe
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\bin\Debug\net6.0-windows\EkranaBas.deps.json
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\bin\Debug\net6.0-windows\EkranaBas.runtimeconfig.json
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\bin\Debug\net6.0-windows\EkranaBas.dll
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\bin\Debug\net6.0-windows\EkranaBas.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.Form1.resources
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.csproj.GenerateResource.cache
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.AssemblyInfoInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.AssemblyInfo.cs
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.csproj.CoreCompileInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.dll
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\refint\EkranaBas.dll
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\EkranaBas.genruntimeconfig.cache
+C:\Users\rumey\VS Ornekler\Ornekler\EkranaBas\obj\Debug\net6.0-windows\ref\EkranaBas.dll

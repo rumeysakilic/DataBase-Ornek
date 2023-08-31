@@ -1,0 +1,16 @@
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\bin\Debug\net6.0-windows\GirisOrnek.exe
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\bin\Debug\net6.0-windows\GirisOrnek.deps.json
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\bin\Debug\net6.0-windows\GirisOrnek.runtimeconfig.json
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\bin\Debug\net6.0-windows\GirisOrnek.dll
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\bin\Debug\net6.0-windows\GirisOrnek.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.Form1.resources
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.csproj.GenerateResource.cache
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.AssemblyInfoInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.AssemblyInfo.cs
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.csproj.CoreCompileInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.dll
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\refint\GirisOrnek.dll
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\GirisOrnek.genruntimeconfig.cache
+C:\Users\rumey\VS Ornekler\Ornekler\GirisOrnek\obj\Debug\net6.0-windows\ref\GirisOrnek.dll

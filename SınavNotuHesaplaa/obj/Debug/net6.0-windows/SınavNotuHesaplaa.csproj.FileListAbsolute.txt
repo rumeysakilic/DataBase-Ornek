@@ -1,0 +1,17 @@
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\bin\Debug\net6.0-windows\SınavNotuHesaplaa.exe
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\bin\Debug\net6.0-windows\SınavNotuHesaplaa.deps.json
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\bin\Debug\net6.0-windows\SınavNotuHesaplaa.runtimeconfig.json
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\bin\Debug\net6.0-windows\SınavNotuHesaplaa.dll
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\bin\Debug\net6.0-windows\SınavNotuHesaplaa.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.Form1.resources
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.csproj.GenerateResource.cache
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.AssemblyInfoInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.AssemblyInfo.cs
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.csproj.CoreCompileInputs.cache
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.dll
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\refint\SınavNotuHesaplaa.dll
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.pdb
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.genruntimeconfig.cache
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\ref\SınavNotuHesaplaa.dll
+C:\Users\rumey\VS Ornekler\Ornekler\SınavNotuHesaplaa\obj\Debug\net6.0-windows\SınavNotuHesaplaa.Properties.Resources.resources
